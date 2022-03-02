@@ -1,0 +1,9 @@
+author: Pau DeLuca,Joe Bordes
+core-version: >=5.1.23
+dependents: 
+description: Castellano. (Spain)
+name: es-ES
+plugin-type: language
+title: $:/languages/es-ES
+type: application/json
+version: 5.2.1
