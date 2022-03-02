@@ -1,7 +1,2 @@
-created: 20220302081136194
-creator: 1
-list: $:/Import $:/ControlPanel $:/config/KookmaPluginLibrary GettingStarted
-modified: 20220302081412094
-modifier: 1
+list: GettingStarted
 title: $:/StoryList
-type: text/vnd.tiddlywiki
