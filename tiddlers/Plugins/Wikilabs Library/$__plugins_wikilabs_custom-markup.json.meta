@@ -1,0 +1,8 @@
+dependents: $:/plugins/wikilabs/pragma-comment
+description: Adds a possibilty to style text content with wikitext syntax
+list: readme license history
+name: Custom Markup
+plugin-type: plugin
+title: $:/plugins/wikilabs/custom-markup
+type: application/json
+version: 0.21.3

@@ -1,0 +1,10 @@
+author: pmario
+core-version: >=5.1.14
+dependents: 
+description: Activate actions, whenever the widget is shown
+list: readme license history
+name: Trigger
+plugin-type: plugin
+title: $:/plugins/wikilabs/trigger
+type: application/json
+version: 0.1.1

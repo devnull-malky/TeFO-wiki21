@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.15
+dependents: 
+description: Add possibility to add 'pragma comments'
+list: readme license history
+name: Pragma Comment
+plugin-type: plugin
+title: $:/plugins/wikilabs/pragma-comment
+type: application/json
+version: 0.1.1

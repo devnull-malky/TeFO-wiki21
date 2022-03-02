@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.14
+dependents: 
+description: WebDav PUT saver - takes precedence
+list: readme history license
+name: WegDav lm
+plugin-type: plugin
+title: $:/plugins/wikilabs/webdav-lm
+type: application/json
+version: 0.1.2

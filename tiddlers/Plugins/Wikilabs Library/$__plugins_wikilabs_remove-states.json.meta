@@ -1,0 +1,11 @@
+author: Mario Pietsch
+core-version: >=5.1.6
+dependents: 
+deprecated: 0.1.1
+description: Remove all state tiddlers. Simple UI
+list: readme license
+name: Remove States
+plugin-type: plugin
+title: $:/plugins/wikilabs/remove-states
+type: application/json
+version: 0.1.3

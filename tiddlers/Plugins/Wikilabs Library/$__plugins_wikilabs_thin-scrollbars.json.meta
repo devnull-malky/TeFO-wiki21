@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.15
+dependents: 
+description: A bit of CSS to modify default scrollbars
+list: readme license history
+name: Thin Scrollbars
+plugin-type: plugin
+title: $:/plugins/wikilabs/thin-scrollbars
+type: application/json
+version: 0.1.0

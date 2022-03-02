@@ -1,0 +1,10 @@
+author: Mario Pietsch
+core-version: >=5.1.0
+dependents: 
+description: Makes all state tiddlers persistent
+list: license readme history
+name: Persistent States
+plugin-type: plugin
+title: $:/plugins/wikilabs/persistent-states
+type: application/json
+version: 1.0.2

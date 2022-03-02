@@ -1,0 +1,10 @@
+author: pmario
+core-version: >=5.1.14
+dependents: 
+description: improve data-tiddler handling
+list: readme license history
+name: Key Values
+plugin-type: plugin
+title: $:/plugins/wikilabs/keyvalues
+type: application/json
+version: 2.1.0
