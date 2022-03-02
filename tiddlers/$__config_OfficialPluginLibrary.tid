@@ -1,0 +1,7 @@
+caption: {{$:/language/OfficialPluginLibrary}}
+tags: $:/tags/PluginLibrary
+title: $:/config/OfficialPluginLibrary
+type: text/vnd.tiddlywiki
+url: https://tiddlywiki.com/library/v5.2.1/index.html
+
+{{$:/language/OfficialPluginLibrary/Hint}}
