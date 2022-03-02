@@ -1,8 +1,13 @@
 created: 20220302092502502
 creator: 1
-modified: 20220302092502502
+modified: 20220302105230012
 modifier: 1
 title: $:/DefaultTiddlers
 type: text/vnd.tiddlywiki
 
 [list[$:/StoryList]]
+[[$:/plugins/telmiger/PluginSize/plugin-info]]
+[[telmiger Plugins]]
+
+
+
