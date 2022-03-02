@@ -1,7 +1,3 @@
-created: 20220302112032478
-creator: 1
-list: $:/ControlPanel [[telmiger Plugins]]
-modified: 20220302112057436
-modifier: 1
+list: $:/ControlPanel $:/plugins/telmiger/PluginSize/plugin-info [[telmiger Plugins]]
 title: $:/StoryList
 type: text/vnd.tiddlywiki
